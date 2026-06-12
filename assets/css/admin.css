@@ -1,0 +1,10 @@
+.fsb-item {
+	background: #fff;
+	border: 1px solid #ccd0d4;
+	border-radius: 6px;
+	margin: 0 0 16px;
+	padding: 14px;
+}
+.fsb-item textarea {
+	font-family: inherit;
+}

@@ -1,0 +1,35 @@
+.fsb-faq-block {
+	margin: 24px 0;
+}
+.fsb-title {
+	margin-bottom: 16px;
+}
+.fsb-faq-item {
+	border-bottom: 1px solid #e5e7eb;
+	padding: 16px 0;
+}
+.fsb-faq-item:first-of-type {
+	border-top: 1px solid #e5e7eb;
+}
+.fsb-question {
+	font-weight: 700;
+	margin: 0 0 8px;
+}
+.fsb-answer p:first-child {
+	margin-top: 0;
+}
+.fsb-answer p:last-child {
+	margin-bottom: 0;
+}
+.fsb-details summary {
+	cursor: pointer;
+	list-style-position: outside;
+}
+.fsb-details[open] summary {
+	margin-bottom: 8px;
+}
+.fsb-error {
+	border-left: 4px solid #d63638;
+	padding: 8px 12px;
+	background: #fcf0f1;
+}
